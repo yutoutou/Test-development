@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f41d801-ab7f-4829-9ee2-0724294ab772" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwQF67Jtt6rxwP9HRUMJgIykmf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.EmployeeTest">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <module name="Java-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld" />
+      <module name="Java-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f41d801-ab7f-4829-9ee2-0724294ab772" name="Default Changelist" comment="" />
+      <created>1593333568904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593333568904</updated>
+      <workItem from="1593333571558" duration="1130000" />
+      <workItem from="1593342008322" duration="505000" />
+      <workItem from="1593484022824" duration="1611000" />
+      <workItem from="1594442387072" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="202" key="GridCell.Tab.0.bottom" timestamp="1593514792585">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="202" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.826@1440.23.2560.1417" timestamp="1593514792585" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1593341617856" />
+    <state width="2518" height="202" key="GridCell.Tab.0.center" timestamp="1593514792585">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="202" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.826@1440.23.2560.1417" timestamp="1593514792585" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1593341617855" />
+    <state width="2518" height="202" key="GridCell.Tab.0.left" timestamp="1593514792584">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="202" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.826@1440.23.2560.1417" timestamp="1593514792584" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1593341617855" />
+    <state width="2518" height="202" key="GridCell.Tab.0.right" timestamp="1593514792585">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="202" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.826@1440.23.2560.1417" timestamp="1593514792585" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1593341617855" />
+    <state x="221" y="60" key="SettingsEditor" timestamp="1593342634877">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="60" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593342634877" />
+    <state x="221" y="78" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1593342433926" />
+    <state x="221" y="78" key="SettingsEditor/1440.23.2560.1417/0.23.1440.832@0.23.1440.832" timestamp="1593339570333" />
+    <state x="221" y="78" key="SettingsEditor/1440.23.2560.1417/0.23.1440.833@0.23.1440.833" timestamp="1593339502436" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1593333575899">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1593333575899" />
+    <state x="97" y="61" key="new project wizard" timestamp="1593342357530">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="97" y="61" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1593342357530" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Employee.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eba842b-3c6b-4a6d-8405-71041ea50166" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ef9Cvi0qij7KCSi69rmQeCjTof" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestDynamic">
+    <configuration name="Junit5Demo1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5DemoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.Junit5Demo1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5Demo2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5DemoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.Junit5Demo2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDynamic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5DemoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.TestDynamic" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDynamic" />
+        <item itemvalue="JUnit.Junit5Demo2Test" />
+        <item itemvalue="JUnit.Junit5Demo1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eba842b-3c6b-4a6d-8405-71041ea50166" name="Default Changelist" comment="" />
+      <created>1594701655929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594701655929</updated>
+      <workItem from="1594701659413" duration="4380000" />
+      <workItem from="1594711563251" duration="1795000" />
+      <workItem from="1594741070252" duration="2498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="597" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594702328437">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="123" width="1240" height="597" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594702328437" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1594711540060">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.828@0.23.1440.828" timestamp="1594702396745" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594711540060" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1594710167973" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1594711540059">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.828@0.23.1440.828" timestamp="1594702396744" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594711540059" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1594710167972" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1594711540059">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.828@0.23.1440.828" timestamp="1594702396744" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594711540059" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1594710167972" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1594711540060">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.828@0.23.1440.828" timestamp="1594702396745" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594711540060" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.831@0.23.1440.831" timestamp="1594710167973" />
+    <state x="221" y="59" key="SettingsEditor" timestamp="1594741526115">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="59" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1594741526115" />
+    <state x="221" y="60" key="SettingsEditor/1440.23.2560.1417/0.23.1440.830@0.23.1440.830" timestamp="1594702006180" />
+  </component>
+</project>
