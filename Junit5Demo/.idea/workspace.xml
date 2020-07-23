@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="146717ed-e21f-4b9b-b1dd-9b2877401833" name="Default Changelist" comment="" />
+    <list default="true" id="146717ed-e21f-4b9b-b1dd-9b2877401833" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/SeleniumWebTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumWebTest/SeleniumWebTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/allure-results/35d8c2e4-bd88-441f-8574-a8330606d81e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/allure-results/b861102f-0e96-46ee-b4a5-a5032274a0a2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/allure-results/d2207549-5ad9-4314-8650-0e8ba8c05a38-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumWebTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/src/test/java/com/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/src/test/java/com/testcase/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/target/test-classes/com/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumWebTest/target/test-classes/com/testcase/BaseTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,26 +52,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1eTs1Q7ZwALTJqBx3jcvv3TPBwz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.Junit5SuiteDemoTest">
     <configuration name="Junit5Demo1Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -125,18 +158,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,6 +178,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1594442384677">
