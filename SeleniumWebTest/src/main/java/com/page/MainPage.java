@@ -14,13 +14,13 @@ import java.util.Locale;
 import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
 
-public class MainPage {
-    public static RemoteWebDriver driver;
+public class MainPage extends BasePage{
 
     public MainPage(){
-        driver = new ChromeDriver();
+        super();
+//        driver = new ChromeDriver();
         driver.get("https://work.weixin.qq.com/wework_admin/frame");
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+//        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 
         try {
             FileReader fileReader = new FileReader("cookie.txt");
@@ -58,11 +58,8 @@ public class MainPage {
 
     public ContactPage toContact(){
         //todo:
-        driver.findElement(By.cssSelector("#menu_contacts")).click();
+        click(By.cssSelector("#menu_contacts"));
+//        driver.findElement(By.cssSelector("#menu_contacts")).click();
         return new ContactPage(driver);
-    }
-
-    public void tearDown(){
-        driver.quit();
     }
 }
