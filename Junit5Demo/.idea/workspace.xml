@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eTs1Q7ZwALTJqBx3jcvv3TPBwz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="JUnit.Junit5SuiteDemoTest">
@@ -146,6 +151,7 @@
       <workItem from="1594384153405" duration="811000" />
       <workItem from="1594384982816" duration="496000" />
       <workItem from="1594386525584" duration="3924000" />
+      <workItem from="1594803967307" duration="40000" />
     </task>
     <servers />
   </component>

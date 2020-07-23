@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.testcase.Junit5Demo2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.023 s <<< FAILURE! - in com.testcase.Junit5Demo2Test
+asserttion  Time elapsed: 0.022 s  <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+demo assertions (3 failures)
+	org.opentest4j.AssertionFailedError: expected: <1> but was: <5>
+	org.opentest4j.AssertionFailedError: expected: <1> but was: <6>
+	org.opentest4j.AssertionFailedError: expected: <1> but was: <7>
+	at com.testcase.Junit5Demo2Test.asserttion(Junit5Demo2Test.java:12)
+

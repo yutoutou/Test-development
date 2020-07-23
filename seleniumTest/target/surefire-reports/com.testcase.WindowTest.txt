@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testcase.WindowTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.495 s - in com.testcase.WindowTest
