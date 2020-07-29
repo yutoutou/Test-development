@@ -22,10 +22,10 @@ public class TestCookie {
     public static void initData(){
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("debuggerAddress", "127.0.0.1:9222");
-        driver = new ChromeDriver(options);
+        driver = new ChromeDriver();
     }
 
-    //@Test
+    @Test
     public void addCookie(){
         driver.get("https://work.weixin.qq.com/wework_admin/frame");
 
@@ -52,6 +52,7 @@ public class TestCookie {
                 boolean isSecure = Boolean.parseBoolean(tokenizer.nextToken());
 
                 Cookie cookie = new Cookie(name, value, domain, path, expiry, isSecure);
+                System.out.println(cookie);
                 driver.manage().addCookie(cookie);
             }
         } catch (Exception e) {
@@ -66,7 +67,7 @@ public class TestCookie {
 
     }
 
-    @Test
+//    @Test
     public void testCookie(){
         try {
             FileWriter fileWriter = new FileWriter("cookie.txt");

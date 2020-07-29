@@ -6,8 +6,6 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
-import java.util.TreeMap;
 import java.util.concurrent.TimeUnit;
 
 public class BasePage {
@@ -32,12 +30,21 @@ public class BasePage {
     }
 
     public void click(By by){
+        //todo: 异常处理
         wait.until(ExpectedConditions.elementToBeClickable(by));
         driver.findElement(by).click();
     }
 
     public void sendKeys(By by, String content){
+        //todo: 异常处理
         wait.until(ExpectedConditions.visibilityOfElementLocated(by));
         driver.findElement(by).sendKeys(content);
     }
+
+    public void upload(By by, String path){
+        //todo: 异常处理
+        wait.until(ExpectedConditions.presenceOfElementLocated(by));
+        driver.findElement(by).sendKeys(path);
+    }
+
 }
