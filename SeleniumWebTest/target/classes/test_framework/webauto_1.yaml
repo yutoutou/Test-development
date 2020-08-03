@@ -1,0 +1,18 @@
+name: xxx
+description: xxx
+steps:
+  # 基本自动化领域模型
+  # 业务模型
+  # 通用方法
+  - method: click
+    params: [1, 2]
+  # 通用方法加参数
+  - method: click
+    params:
+      by: id
+      value: search
+
+  - action: get
+    url: https://ceshiren.com
+  - click: {linktext: 开源项目}
+  - click: {linktext: 测试内推}

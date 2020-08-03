@@ -1,7 +1,7 @@
 package com.testcases;
 
-import com.page.ContactPage;
-import com.page.MainPage;
+import web_page.ContactPage;
+import web_page.MainPage;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
