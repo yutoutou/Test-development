@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="659b9143-a885-4ec5-be4d-1d4b0bfcc0ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test_framework/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test_framework/UIAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weWork/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weWork/page/WeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weWork/page/schedulePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test_framework/uiauto.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test_framework/BasePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/weWork/page/schedulePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appiumTest/src/main/java/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appiumTest/src/main/java/page/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appiumTest/src/main/java/page/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appiumTest/src/test/java/com/test_app/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appiumTest/src/test/java/com/test_app/xueqiu/testcase/SearchPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appiumTest/target/test-classes/com/test.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fOqABoBAbHz0UbwgQIvljA9ZXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test_framework" />
+      <recent name="weWork.page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/test_framework" />
+      <recent name="$PROJECT_DIR$/src/test/java/test_framework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test_framework" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="weWork.page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BasePageTest.run">
+    <configuration name="BasePageTest.load" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_framework" />
+      <option name="MAIN_CLASS_NAME" value="test_framework.BasePageTest" />
+      <option name="METHOD_NAME" value="load" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasePageTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_framework" />
+      <option name="MAIN_CLASS_NAME" value="test_framework.BasePageTest" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="schedulePageTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weWork.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weWork.page" />
+      <option name="MAIN_CLASS_NAME" value="weWork.page.schedulePageTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BasePageTest.run" />
+        <item itemvalue="JUnit.BasePageTest.load" />
+        <item itemvalue="JUnit.schedulePageTest.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659b9143-a885-4ec5-be4d-1d4b0bfcc0ca" name="Default Changelist" comment="" />
+      <created>1596099340054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596099340054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1596126746753">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1596126746753" />
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1596126497277" />
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1596180949959">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.830@0.23.1440.830" timestamp="1596180949959" />
+    <state x="490" y="311" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596340784642">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="490" y="311" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1596340784642" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1596417989620">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596417880731" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596417989620" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1596344935545" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1596193021908" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1596189623494" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1596417989619">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1596417880730" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1596417989619" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1596344935544" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1596193021907" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1596189623494" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1596417989619">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1596417880730" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1596417989619" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1596344935544" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1596193021906" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1596189623493" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1596417989619">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1596417880730" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1596417989619" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1596344935544" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1596193021908" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1596189623494" />
+    <state x="258" y="97" key="Maven.ArtifactSearchDialog" timestamp="1596341739429">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="258" y="97" key="Maven.ArtifactSearchDialog/0.23.1440.831@0.23.1440.831" timestamp="1596341739429" />
+    <state x="507" y="224" key="chooseDestDirectoryDialog" timestamp="1596340780743">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="507" y="224" key="chooseDestDirectoryDialog/0.23.1440.830@0.23.1440.830" timestamp="1596340780743" />
+    <state x="499" y="271" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596340905666">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="499" y="271" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.829@0.23.1440.829" timestamp="1596126732877" />
+    <state x="499" y="271" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.830@0.23.1440.830" timestamp="1596180984169" />
+    <state x="499" y="271" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.831@0.23.1440.831" timestamp="1596340905666" />
+    <state x="88" y="98" key="new project wizard" timestamp="1596339865627">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="88" y="98" key="new project wizard/0.23.1440.831@0.23.1440.831" timestamp="1596339865627" />
+  </component>
+</project>
