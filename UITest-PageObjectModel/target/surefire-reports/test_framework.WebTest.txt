@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test_framework.WebTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.828 s - in test_framework.WebTest

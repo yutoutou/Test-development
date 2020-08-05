@@ -1,0 +1,12 @@
+name: main_page
+methods:
+  toSearch:
+    - click: {id: xxx}
+    - click: {xpath: ddd}
+    - id: xxx
+      sendKeys: "1223 3211"
+  Search:
+    - click: {id: xxx}
+    - click: {xpath: ddd}
+    - id: xxx
+      sendKeys: "1223 3211"

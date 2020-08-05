@@ -17,12 +17,12 @@ public class WebTest {
 
     @BeforeAll
     public static void initData(){
-
+        //todo:加载通用配置
     }
 
     @BeforeEach
     public void beforeEach(){
-
+        //todo:每个用例相关
     }
 
     @ParameterizedTest(name = "{index} {1}")

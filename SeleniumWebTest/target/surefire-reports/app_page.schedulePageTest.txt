@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: app_page.schedulePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.415 s <<< FAILURE! - in app_page.schedulePageTest
+app_page.schedulePageTest  Time elapsed: 3.415 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JANELYHUANG', ip: '192.168.236.1', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: AppiumDriver
+	at app_page.schedulePageTest.initData(schedulePageTest.java:13)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at app_page.schedulePageTest.initData(schedulePageTest.java:13)
+

@@ -3,11 +3,17 @@ package test_framework;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 
+import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
+import java.util.stream.Stream;
 
 //自动化领域建模
 public class BasePage {
+    List<PageObjectModel> pages = new ArrayList<>();
+
     public void click(HashMap<String, Object> map){
         System.out.println("click");
         System.out.println(map);
@@ -22,6 +28,15 @@ public class BasePage {
     public void action(HashMap<String, Object> map){
         System.out.println("action");
         System.out.println(map);
+
+        String action = map.get("action").toString().toLowerCase();
+
+        if (action.contains("page")){
+            pages.stream().filter(pom->pom.name.equals(action)).findFirst().get()
+                    .methods.get("init").forEach(step->{
+                action(step);
+            });
+        }
     }
 
     public void find(){
@@ -69,5 +84,22 @@ public class BasePage {
         return uiAuto;
     }
 
+    public PageObjectModel loadPage(String path){
+        ObjectMapper mapper = new ObjectMapper(new YAMLFactory());
+        PageObjectModel pom = null;
+        try {
+            pom = mapper.readValue(BasePage.class.getResourceAsStream(path), PageObjectModel.class);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return pom;
+    }
+
+    public void loadPages(String dir){
+        Stream.of(new File(dir).list()).forEach(path->{
+            pages.add(loadPage(path));
+        });
+    }
 
 }

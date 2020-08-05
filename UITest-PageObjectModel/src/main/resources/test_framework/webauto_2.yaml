@@ -1,0 +1,20 @@
+name: xxx
+steps:
+  - page: main
+    action: init
+
+  - page: main
+    action: visit
+
+  - page: contact
+    action: search
+
+#  - page: contact
+#  - action: toSearch
+
+#  - page: SearchPage
+#  - search: keyword
+#  - action: getUserName
+#  - action: equals
+#    expect: xxxfff
+#    actual: xxx

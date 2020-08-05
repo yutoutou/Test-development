@@ -1,0 +1,15 @@
+name: xxx
+description: xxx
+steps:
+  - action: MainPage
+  - action: toSearch
+  - action: SearchPage
+  - action: search
+  - page: MainPage
+  - action: toSearch
+  - page: SearchPage
+  - search: keyword
+  - action: getUserName
+  - action: equals
+    expect: xxxfff
+    actual: xxx

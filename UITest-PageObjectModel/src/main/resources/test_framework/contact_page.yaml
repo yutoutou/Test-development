@@ -1,0 +1,5 @@
+name: contact
+methods:
+  search:
+    - click: {linktext: 最新}
+    - click: {linktext: 热门}

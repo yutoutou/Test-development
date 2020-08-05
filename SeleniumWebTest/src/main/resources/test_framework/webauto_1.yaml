@@ -16,3 +16,11 @@ steps:
     url: https://ceshiren.com
   - click: {linktext: 开源项目}
   - click: {linktext: 测试内推}
+  - action: exist
+    id: xxx
+  - action: getText
+    id: ddd
+    save: ddd_text
+  - action: equals
+    expect: xxx
+    actual: ddd_text

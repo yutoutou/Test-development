@@ -1,0 +1,1 @@
+{"uuid":"6b24899d-fac0-4044-a0a5-4b91dd5ed911","name":"TestCookie","children":["7897d61b-f436-4b45-81a5-29b0b1201887"],"befores":[{"name":"initData","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1596627642471,"stop":1596627643211}],"afters":[],"links":[],"start":1596627642471,"stop":1596627643316}

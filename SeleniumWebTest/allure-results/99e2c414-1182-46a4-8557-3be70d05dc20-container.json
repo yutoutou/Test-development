@@ -1,0 +1,1 @@
+{"uuid":"99e2c414-1182-46a4-8557-3be70d05dc20","name":"2 /test_framework/webauto_1.yaml","children":["b77611f3-b3a0-44ad-bec7-bb5acb9d2a17"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1596627038072,"stop":1596627038072}],"afters":[],"links":[],"start":1596627038065,"stop":1596627040721}

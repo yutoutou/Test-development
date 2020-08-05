@@ -20,65 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45cce6f-3852-4a47-8bee-04566c7030af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Junit5DemoTest/.idea/Junit5DemoTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/.idea/seleniumTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/062544d2-795c-4f5f-9738-f614b7abe69e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/069247bd-9bd7-4c01-a942-1bd9cc5f8a0d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/084a40d9-cddd-4592-b01e-8cd3deeef04d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/08798485-52bd-432b-a191-eb615cc2e2a5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/10762c91-aa1b-42d4-812c-7deeb8d15e5a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/161ed153-1fea-43cd-a663-fb7b4978d067-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/2a6d45db-783a-4844-b5fb-a3c06d069f28-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/3e6894c2-51f0-4130-af52-5b535f13d27d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/4f66b692-677a-4667-bc21-81a45d4bf2e7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/53a855ef-53a7-434a-ad72-24892d3b83b9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/5822434f-f910-4a70-bb20-3af6a12a3018-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/5c7eba71-6ebb-4a08-9efb-c0d930148e3e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/829f2825-04d6-4325-99ef-7d8b3f9f47e9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/852fe064-da5d-40c8-8f21-ed4bc6d757cf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/8b0c25c4-60ac-49f7-ab5f-998020b0ebb0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/8f64a4ca-9ae3-421e-9cfe-cd651b200d93-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/9e44e5fe-f10a-48b8-b3f7-671a6415184a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/a48896a0-ab98-4c07-a7e6-3c2673c9ea6b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/aa65071c-9fe8-45d1-bf58-a588d58d753a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/abc9af56-7b19-4c9f-96f3-2eecba5f91de-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/b21738de-09fe-48b3-a514-0bf58eb5cb7b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/c0384ed1-55b8-4cde-b045-94479ca488b0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/cf430a74-9203-46a6-b7cf-faa75e823f3b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/ddd2b51c-4520-4b4f-a353-6b61d488be98-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/e2438a36-45f8-480c-a2b5-5430b7d4e2bb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/fb6eb149-9db9-43a6-8cc9-78a3f3159292-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/allure-results/fc595d42-de5f-4380-a7e0-8c166dea79e8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/seleniumTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/Basetest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/BrowserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/FrameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/JsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/StartSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/interactiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumTest/src/test/java/com/testcase/teach_selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5Demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5Demo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/classes/junit5/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/classes/junit5/Calc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/surefire-reports/TEST-junit5.CalcTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/surefire-reports/TEST-junit5.CalcTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/surefire-reports/junit5.CalcTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/surefire-reports/junit5.CalcTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/Junit5Demo1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/Junit5Demo1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/Junit5Demo2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/Junit5Demo2Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/TestDynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/TestDynamic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/TestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/com/testcase/TestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/junit5/CalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5DemoTest/target/test-classes/junit5/CalcTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +39,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1eOovp0LJFNYdPiXLmYIF1jOeDU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -108,7 +58,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../appiumTest" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -128,6 +81,22 @@
       <option name="PACKAGE_NAME" value="com.testcase" />
       <option name="MAIN_CLASS_NAME" value="com.testcase.LoginTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junitdemotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.LoginTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,30 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_enable" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Junitdemotest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testcase" />
-      <option name="MAIN_CLASS_NAME" value="com.testcase.demo_enable" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.login" />
         <item itemvalue="TestNG./Users/wecash/IdeaProjects/Junitdemotest/testng.xml" />
         <item itemvalue="TestNG.demo_Groups" />
         <item itemvalue="TestNG.Demo_DataProvider" />
-        <item itemvalue="TestNG.demo_enable" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +171,8 @@
       <workItem from="1594356019856" duration="446000" />
       <workItem from="1594804008493" duration="690000" />
       <workItem from="1594820609994" duration="383000" />
+      <workItem from="1596258295893" duration="316000" />
+      <workItem from="1596258709203" duration="144000" />
     </task>
     <servers />
   </component>
@@ -230,7 +184,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -241,9 +197,18 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="388" y="59" key="#/Users/wecash/IdeaProjects/Junitdemotest/testng.xml/0.23.1440.826@0.23.1440.826" timestamp="1594291704300" />
-    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1595324926449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1596258521812">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596258521812" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596258853470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596258853470" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596258855556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596258855556" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594281882806" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594205536522" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1594205679914" />
@@ -252,9 +217,10 @@
     <state width="1398" height="391" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1594290213521" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1594288676740" />
     <state width="1358" height="203" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.832@0.23.1440.832" timestamp="1595324926449" />
-    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1595324926449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596258855556">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596258855556" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594281882805" />
     <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594205536521" />
     <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1594205679913" />
@@ -263,9 +229,10 @@
     <state width="1398" height="391" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1594290213521" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1594288676739" />
     <state width="1358" height="203" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.832@0.23.1440.832" timestamp="1595324926449" />
-    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1595324926448">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596258855556">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596258855556" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594281882804" />
     <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594205536521" />
     <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1594205679913" />
@@ -274,9 +241,10 @@
     <state width="1398" height="391" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1594290213521" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1594288676738" />
     <state width="1358" height="203" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.832@0.23.1440.832" timestamp="1595324926448" />
-    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1595324926449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596258855556">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596258855556" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594281882805" />
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594205536521" />
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1594205679914" />

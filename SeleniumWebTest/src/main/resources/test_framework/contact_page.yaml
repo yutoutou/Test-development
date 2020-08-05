@@ -1,0 +1,13 @@
+name: xxx
+description: xxx
+steps:
+  toSearch:
+    - click: {id: xxx}
+    - click: {xpath: ddd}
+    - id: xxx
+      sendKeys: "1223 3211"
+
+  getUserName:
+    - action: getText
+      id: xxx
+      save: xxx
